@@ -8,14 +8,21 @@
   background-color: #eab704;
   padding: 15px;
   border-radius: 15px;
-  height: 450px;
+  height: 400px;
+  width: 300px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-
+.answer-box .icon {
+  width: 130px;
+}
+.answer-box img {
+  width: 100%;
+}
 .answer-box p {
   font-size: 30px;
   font-weight: bold;
-  color: #039669;
+  /* color: #039669; */
 }
