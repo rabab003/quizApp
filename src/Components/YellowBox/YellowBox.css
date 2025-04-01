@@ -11,6 +11,9 @@
   padding: 25px 30px;
   border-radius: 14px;
 }
+.main h1 {
+  padding-bottom: 15px;
+}
 
 body {
   display: flex;
